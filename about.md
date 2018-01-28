@@ -4,9 +4,25 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello, my name is Kelly Hogan and I am currently a senior at NYU majoring in Computer Science and minoring in French.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+#### Programming Languages:
+* Java (Advanced)
+* Python (Intermediate/Advanced)
+* C (Intermediate)
+* JavaScript (Intermediate)
+* C# (Beginner)
+* Swift (Beginner)
 
+#### Operating Systems:
+* Mac OS X (Advanced)
+* Linux (Intermediate/Advanced)
+* Windows (Beginner)   
+
+#### Frameworks:
+* Ext Js (Beginner/Intermediate)
+
+#### Libraries:
+* React (Beginner/Intermediate)
