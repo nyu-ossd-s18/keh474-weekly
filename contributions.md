@@ -6,7 +6,8 @@
 |4|[Comment on an issue #20](https://github.com/joannakl/cs480_s18/issues/20)|Course Website|
 |5|[Create pull request](https://github.com/joannakl/cs480_s18/pull/72) to fix issue [#18](https://github.com/joannakl/cs480_s18/issues/18)|Course Website|
 |10|[Create pull request](https://github.com/joannakl/cs480_s18/pull/103) to fix issue [#98](https://github.com/joannakl/cs480_s18/issues/98)|Course Website|
-
+|10|Added [Montclair Golf Club](https://www.openstreetmap.org/changeset/57904543) to OpenStreetMap|Other|
+|10|Added the address and website for [Verona High School](https://www.openstreetmap.org/changeset/57904639) to OpenStreetMap|Other|
 <style>
     table {
         border-collapse:collapse;
