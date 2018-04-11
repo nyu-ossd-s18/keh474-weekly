@@ -8,6 +8,10 @@
 |10|[Create pull request](https://github.com/joannakl/cs480_s18/pull/103) to fix issue [#98](https://github.com/joannakl/cs480_s18/issues/98)|Course Website|
 |10|Added [Montclair Golf Club](https://www.openstreetmap.org/changeset/57904543) to OpenStreetMap|Other|
 |10|Added the address and website for [Verona High School](https://www.openstreetmap.org/changeset/57904639) to OpenStreetMap|Other|
+|11|Added the website, hours, email, and phone number for [Pommes Frites](https://www.openstreetmap.org/changeset/58018325) to OpenStreetMap|Other|
+|11|Added [Boba Guys](https://www.openstreetmap.org/changeset/58018828) in Greenwich Village to OpenStreetMap|Other|
+|11|Updated the address, added email, added website, an added hours of operation for [NYU Bookstore](https://www.openstreetmap.org/changeset/58019794) in OpenStreetMap|Other|
+|11|[Created the "Final exam date needs to be updated" Issue](https://github.com/joannakl/cs480_s18/issues/112)|Course Website|
 
 <style>
     table {
