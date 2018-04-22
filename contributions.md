@@ -12,6 +12,10 @@
 |11|Added [Boba Guys](https://www.openstreetmap.org/changeset/58018828) in Greenwich Village to OpenStreetMap|Other|
 |11|Updated the address, added email, added website, an added hours of operation for [NYU Bookstore](https://www.openstreetmap.org/changeset/58019794) in OpenStreetMap|Other|
 |11|[Created the "Final exam date needs to be updated" Issue](https://github.com/joannakl/cs480_s18/issues/112)|Course Website|
+|12|Added the name of the Interior Minister to the page for [Sacrifice de poulets](https://fr.wikipedia.org/w/index.php?title=Sacrifice_de_poulets&oldid=147673709)|Wikipedia|
+|12|Added a link to the Queen's Awards for Enterprise to the [Charles Tyrwhitt](https://en.wikipedia.org/w/index.php?title=Charles_Tyrwhitt&oldid=837137138) page|Wikipedia|
+|12|Added a link to Michael Corcoran (musician) to the page for [iCarly (season 1)](<https://en.wikipedia.org/w/index.php?title=ICarly_(season_1)&oldid=837138266>)|Wikipedia|
+|12|Added a link to the PBS Kids page for Clifford's Puppy Days under External links - [Clifford's Puppy Days](<https://en.wikipedia.org/w/index.php?title=Clifford%27s_Puppy_Days&oldid=837767668>)|Wikipedia| 
 
 <style>
     table {
