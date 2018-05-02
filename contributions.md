@@ -22,6 +22,15 @@
 |14|Created issue [#39585](https://github.com/ansible/ansible/issues/39585) that outlined a typo in the [CODING_GUIDELINES.md](https://github.com/ansible/ansible/blob/devel/CODING_GUIDELINES.md) page for Ansible|Other|
 |14|Created a pull request - [#39604](https://github.com/ansible/ansible/pull/39604) to fix the [issue I created](https://github.com/ansible/ansible/issues/39585) for Ansible. It was merged within the hour!|Other|
 
+|**Contribution Type**|**Points**|
+|---------------------|----------|
+|Course Website|7|
+|Wikipedia|5|
+|Other|8\*|
+|**Total**|20\*|
+
+\*21 total points if creating issue [#39585](https://github.com/ansible/ansible/issues/39585) and submitting PR [#39604](https://github.com/ansible/ansible/pull/39604) for Ansible counts as 2 separate contributions. Currently I am counting them as 1 for a total of 20 points.
+
 <style>
     table {
         border-collapse:collapse;
