@@ -20,7 +20,7 @@
 |13|Commented on issue [#114](https://github.com/joannakl/cs480_s18/issues/114) for Course website|Course Website|
 |14|Commented on issue [#917](https://github.com/internetarchive/openlibrary/issues/917) for Openlibrary|Other| 
 |14|Created issue [#39585](https://github.com/ansible/ansible/issues/39585) that outlined a typo in the [CODING_GUIDELINES.md](https://github.com/ansible/ansible/blob/devel/CODING_GUIDELINES.md) page for Ansible|Other|
-|14|Created a pull request - [#39604](https://github.com/ansible/ansible/pull/39604) to fix the [issue I created](https://github.com/ansible/ansible/issues/39585) for Ansible|Other|
+|14|Created a pull request - [#39604](https://github.com/ansible/ansible/pull/39604) to fix the [issue I created](https://github.com/ansible/ansible/issues/39585) for Ansible. It was merged within the hour!|Other|
 
 <style>
     table {
