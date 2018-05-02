@@ -4,8 +4,8 @@
 |4|[Created the Typo under "Important Dates" Issue](https://github.com/joannakl/cs480_s18/issues/42)|Course Website|
 |4|Commented on issue [#41](https://github.com/joannakl/cs480_s18/issues/41) for the Course Website|Course Website|
 |4|Commented on issue [#20](https://github.com/joannakl/cs480_s18/issues/20) for the Course Website|Course Website|
-|5|[Create pull request](https://github.com/joannakl/cs480_s18/pull/72) to fix issue [#18](https://github.com/joannakl/cs480_s18/issues/18)|Course Website|
-|10|[Create pull request](https://github.com/joannakl/cs480_s18/pull/103) to fix issue [#98](https://github.com/joannakl/cs480_s18/issues/98)|Course Website|
+|5|Created a [pull request](https://github.com/joannakl/cs480_s18/pull/72) to fix issue [#18](https://github.com/joannakl/cs480_s18/issues/18)|Course Website|
+|10|Create a [pull request](https://github.com/joannakl/cs480_s18/pull/103) to fix issue [#98](https://github.com/joannakl/cs480_s18/issues/98)|Course Website|
 |10|Added [Montclair Golf Club](https://www.openstreetmap.org/changeset/57904543) to OpenStreetMap|Other|
 |10|Added the address and website for [Verona High School](https://www.openstreetmap.org/changeset/57904639) to OpenStreetMap|Other|
 |11|Added the website, hours, email, and phone number for [Pommes Frites](https://www.openstreetmap.org/changeset/58018325) to OpenStreetMap|Other|
@@ -19,6 +19,8 @@
 |13|Commented on issue [#1012](https://github.com/yunity/karrot-frontend/issues/1012) for Karrot|Other|
 |13|Commented on issue [#114](https://github.com/joannakl/cs480_s18/issues/114) for Course website|Course Website|
 |14|Commented on issue [#917](https://github.com/internetarchive/openlibrary/issues/917) for Openlibrary|Other| 
+|14|Created issue [#39585](https://github.com/ansible/ansible/issues/39585) that outlined a typo in the [CODING_GUIDELINES.md](https://github.com/ansible/ansible/blob/devel/CONTRIBUTING.md) page for Ansible|Other|
+|14|Created a pull request - [#39604](https://github.com/ansible/ansible/pull/39604) to fix the [issue I created](https://github.com/ansible/ansible/issues/39585) for Ansible|Other|
 
 <style>
     table {
