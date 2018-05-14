@@ -8,7 +8,6 @@
         padding: 5px;
     }
 </style>
-
 |**Week #**|**Contribution**|**Contribution Type**|
 |----------|----------------|---------------------|
 |3|[Edit character page for Appa](<https://en.wikipedia.org/w/index.php?title=Appa_(character)&oldid=825221947>)|Wikipedia|
@@ -34,6 +33,7 @@
 |14|Created a pull request - [#39604](https://github.com/ansible/ansible/pull/39604) to fix the [issue I created](https://github.com/ansible/ansible/issues/39585) for Ansible. It was merged within the hour!|Other|
 |16|Commented on PR [#116](https://github.com/joannakl/cs480_s18/pull/116), adding the issue number and a suggestion to improve the PR|Course Website|
 
+Below is the table to sum up my contribution points
 
 |**Contribution Type**|**Points**|
 |---------------------|----------|
