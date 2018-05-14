@@ -42,4 +42,4 @@ Below is the table to sum up my contribution points
 |Other|8\*|
 |**Total**|21\*|
 
-\*21 total points if creating issue [#39585](https://github.com/ansible/ansible/issues/39585) and submitting PR [#39604](https://github.com/ansible/ansible/pull/39604) for Ansible counts as 2 separate contributions. Currently I am counting them as 1 for a total of 20 points.
+\*22 total points if creating issue [#39585](https://github.com/ansible/ansible/issues/39585) and submitting PR [#39604](https://github.com/ansible/ansible/pull/39604) for Ansible counts as 2 separate contributions. Currently I am counting them as 1 for a total of 21 points.
